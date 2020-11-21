@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 The Classic Space Invaders game built in java programming language.
 
 This game is a project of mine that I worked on during my practices on object-oriented programming in java programming language. It has a direct executable file called "Space Invaders.exe" for directly playing.
